@@ -1,0 +1,20 @@
+--- Assignment Summary ---
+Total students processed: 26
+Mechanical Engineering: 4 eligible students
+Computer Engineering: 12 eligible students
+Electrical Engineering: 3 eligible students
+
+Mechanical Engineering Criteria: Physics > 90%, Chemistry > 85%, Maths > 60%
+Computer Engineering Criteria: Physics > 60%, Chemistry > 60%, Maths > 90%
+Electrical Engineering Criteria: Physics > 95%, Chemistry > 60%, Maths > 90%
+
+--- AI-Generated Report ---
+Based on the provided data, it appears that the majority of eligible students (46%) are in the Computer Engineering department, followed by Mechanical Engineering (15%) and Electrical Engineering (11%). The remaining 28% of students are not specified, and it's unclear whether they are not eligible for any department or are in other departments not listed.
+
+The trend suggests that the criteria for each department may be influencing the distribution of students. The Computer Engineering department has the lowest Physics requirement (60%), which may be allowing more students to qualify. On the other hand, the Electrical Engineering department has the highest Physics requirement (95%), which could be limiting the number of eligible students. 
+
+The Mechanical Engineering department has a balanced requirement with Physics > 90%, Chemistry > 85%, and Maths > 60%. However, the lower requirement for Maths might be the reason for fewer students in this department, as Maths is a crucial subject in engineering.
+
+Recommendations:
+1. For Students: Students should focus on improving their Maths scores, as it is a critical requirement for all departments. Those interested in Electrical Engineering should pay particular attention to Physics, given its high requirement.
+2. For Educators: It might be beneficial to review the department criteria to ensure they are not unnecessarily restrictive or lenient. For instance, the Electrical Engineering department might consider lowering its Physics requirement to attract more students. Similarly, the Computer Engineering department might consider raising its Physics requirement to ensure students are adequately prepared for the coursework. The Mechanical Engineering department might consider raising its Maths requirement to ensure students have a solid foundation in this critical subject.

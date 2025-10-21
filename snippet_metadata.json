@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Send Email (smtplib)",
+    "code": "def send_email(subject, body, to_address):",
+    "description": "Function header for sending an email using Python's smtplib."
+  },
+  {
+    "name": "Setup Logging",
+    "code": "def setup_logging(log_file):",
+    "description": "Function header for initializing logging to a file."
+  },
+  {
+    "name": "Read CSV File",
+    "code": "def read_csv(filepath):",
+    "description": "Function header for reading a CSV file into memory."
+  },
+  {
+    "name": "Write JSON to File",
+    "code": "def write_json(data, filepath):",
+    "description": "Function header for writing JSON data to a file."
+  },
+  {
+    "name": "Read JSON from File",
+    "code": "def read_json(filepath):",
+    "description": "Function header for reading JSON data from a file."
+  },
+  {
+    "name": "Validate Email Address",
+    "code": "def is_valid_email(email):",
+    "description": "Function header for validating an email address format."
+  },
+  {
+    "name": "Generate Random Password",
+    "code": "def generate_password(length=k):",
+    "description": "Function header for generating a random password of specified 'k' length."
+  },
+  {
+    "name": "Calculate File Hash",
+    "code": "def get_file_hash(filepath):",
+    "description": "Function header for calculating the hash of a file."
+  },
+  {
+    "name": "Compress Folder to Zip",
+    "code": "def compress_folder_to_zip(folder_path, zip_path):",
+    "description": "Function header for compressing a folder into a zip file."
+  },
+  {
+    "name": "List Files in Directory",
+    "code": "def list_files(directory):",
+    "description": "Function header for listing all files in a directory."
+  }
+]
